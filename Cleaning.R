@@ -1,4 +1,5 @@
 #Merge data from all sessions
+#modification 2
 
 library(session,ggplot2,plyr)
 library(stargazer)
