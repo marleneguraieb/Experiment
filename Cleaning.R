@@ -1,7 +1,8 @@
+#Merge data from all sessions
 
 library(session,ggplot2,plyr)
 library(stargazer)
-setwd("~/Dropbox/DAL_MGD/CoverUP/Experiment/DATA")
+setwd("~/git_work/Experiment")
 restore.session("Aug30.RSession")
 
 
